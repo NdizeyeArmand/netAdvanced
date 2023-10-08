@@ -1,0 +1,14 @@
+C:\Users\ruben\source\repos\netAdvanced\EersteKennismaking\bin\Debug\net7.0\EersteKennismaking.exe
+C:\Users\ruben\source\repos\netAdvanced\EersteKennismaking\bin\Debug\net7.0\EersteKennismaking.deps.json
+C:\Users\ruben\source\repos\netAdvanced\EersteKennismaking\bin\Debug\net7.0\EersteKennismaking.runtimeconfig.json
+C:\Users\ruben\source\repos\netAdvanced\EersteKennismaking\bin\Debug\net7.0\EersteKennismaking.dll
+C:\Users\ruben\source\repos\netAdvanced\EersteKennismaking\bin\Debug\net7.0\EersteKennismaking.pdb
+C:\Users\ruben\source\repos\netAdvanced\EersteKennismaking\obj\Debug\net7.0\EersteKennismaking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\source\repos\netAdvanced\EersteKennismaking\obj\Debug\net7.0\EersteKennismaking.AssemblyInfoInputs.cache
+C:\Users\ruben\source\repos\netAdvanced\EersteKennismaking\obj\Debug\net7.0\EersteKennismaking.AssemblyInfo.cs
+C:\Users\ruben\source\repos\netAdvanced\EersteKennismaking\obj\Debug\net7.0\EersteKennismaking.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\netAdvanced\EersteKennismaking\obj\Debug\net7.0\EersteKennismaking.dll
+C:\Users\ruben\source\repos\netAdvanced\EersteKennismaking\obj\Debug\net7.0\refint\EersteKennismaking.dll
+C:\Users\ruben\source\repos\netAdvanced\EersteKennismaking\obj\Debug\net7.0\EersteKennismaking.pdb
+C:\Users\ruben\source\repos\netAdvanced\EersteKennismaking\obj\Debug\net7.0\EersteKennismaking.genruntimeconfig.cache
+C:\Users\ruben\source\repos\netAdvanced\EersteKennismaking\obj\Debug\net7.0\ref\EersteKennismaking.dll
