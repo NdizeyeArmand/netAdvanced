@@ -1,0 +1,14 @@
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Omkeren\bin\Debug\net7.0\Omkeren.exe
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Omkeren\bin\Debug\net7.0\Omkeren.deps.json
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Omkeren\bin\Debug\net7.0\Omkeren.runtimeconfig.json
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Omkeren\bin\Debug\net7.0\Omkeren.dll
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Omkeren\bin\Debug\net7.0\Omkeren.pdb
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Omkeren\obj\Debug\net7.0\Omkeren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Omkeren\obj\Debug\net7.0\Omkeren.AssemblyInfoInputs.cache
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Omkeren\obj\Debug\net7.0\Omkeren.AssemblyInfo.cs
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Omkeren\obj\Debug\net7.0\Omkeren.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Omkeren\obj\Debug\net7.0\Omkeren.dll
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Omkeren\obj\Debug\net7.0\refint\Omkeren.dll
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Omkeren\obj\Debug\net7.0\Omkeren.pdb
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Omkeren\obj\Debug\net7.0\Omkeren.genruntimeconfig.cache
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Omkeren\obj\Debug\net7.0\ref\Omkeren.dll
