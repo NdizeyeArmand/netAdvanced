@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\EersteKennismaking"
+    "\\Klassen en events",
+    "\\Nullables",
+    "\\Omkeren"
   ],
+  "SelectedNode": "\\Nullables\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

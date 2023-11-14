@@ -42,9 +42,9 @@ namespace factorial
                 case '1':
                     // Gebruik een for-loop
 
-                    for (int teller = 1; teller <= getal; teller++)
+                    for (int teller = i; teller <= getal; teller++)
                     {
-                        if (getal <= 1)
+                        if (getal <= i)
                         {
                             break;
                         }

@@ -1,0 +1,14 @@
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Wekker\bin\Debug\net7.0\Wekker.exe
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Wekker\bin\Debug\net7.0\Wekker.deps.json
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Wekker\bin\Debug\net7.0\Wekker.runtimeconfig.json
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Wekker\bin\Debug\net7.0\Wekker.dll
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Wekker\bin\Debug\net7.0\Wekker.pdb
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Wekker\obj\Debug\net7.0\Wekker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Wekker\obj\Debug\net7.0\Wekker.AssemblyInfoInputs.cache
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Wekker\obj\Debug\net7.0\Wekker.AssemblyInfo.cs
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Wekker\obj\Debug\net7.0\Wekker.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Wekker\obj\Debug\net7.0\Wekker.dll
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Wekker\obj\Debug\net7.0\refint\Wekker.dll
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Wekker\obj\Debug\net7.0\Wekker.pdb
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Wekker\obj\Debug\net7.0\Wekker.genruntimeconfig.cache
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Wekker\obj\Debug\net7.0\ref\Wekker.dll

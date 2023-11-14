@@ -1,0 +1,14 @@
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Nullables\obj\Debug\net7.0\Nullables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Nullables\obj\Debug\net7.0\Nullables.AssemblyInfoInputs.cache
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Nullables\obj\Debug\net7.0\Nullables.AssemblyInfo.cs
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Nullables\obj\Debug\net7.0\Nullables.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Nullables\bin\Debug\net7.0\Nullables.exe
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Nullables\bin\Debug\net7.0\Nullables.deps.json
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Nullables\bin\Debug\net7.0\Nullables.runtimeconfig.json
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Nullables\bin\Debug\net7.0\Nullables.dll
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Nullables\bin\Debug\net7.0\Nullables.pdb
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Nullables\obj\Debug\net7.0\Nullables.dll
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Nullables\obj\Debug\net7.0\refint\Nullables.dll
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Nullables\obj\Debug\net7.0\Nullables.pdb
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Nullables\obj\Debug\net7.0\Nullables.genruntimeconfig.cache
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\Nullables\obj\Debug\net7.0\ref\Nullables.dll

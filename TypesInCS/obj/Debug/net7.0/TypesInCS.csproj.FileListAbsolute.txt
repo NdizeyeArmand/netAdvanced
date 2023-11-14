@@ -1,0 +1,14 @@
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\TypesInCS\bin\Debug\net7.0\TypesInCS.exe
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\TypesInCS\bin\Debug\net7.0\TypesInCS.deps.json
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\TypesInCS\bin\Debug\net7.0\TypesInCS.runtimeconfig.json
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\TypesInCS\bin\Debug\net7.0\TypesInCS.dll
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\TypesInCS\bin\Debug\net7.0\TypesInCS.pdb
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\TypesInCS\obj\Debug\net7.0\TypesInCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\TypesInCS\obj\Debug\net7.0\TypesInCS.AssemblyInfoInputs.cache
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\TypesInCS\obj\Debug\net7.0\TypesInCS.AssemblyInfo.cs
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\TypesInCS\obj\Debug\net7.0\TypesInCS.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\TypesInCS\obj\Debug\net7.0\TypesInCS.dll
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\TypesInCS\obj\Debug\net7.0\refint\TypesInCS.dll
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\TypesInCS\obj\Debug\net7.0\TypesInCS.pdb
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\TypesInCS\obj\Debug\net7.0\TypesInCS.genruntimeconfig.cache
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\TypesInCS\obj\Debug\net7.0\ref\TypesInCS.dll
