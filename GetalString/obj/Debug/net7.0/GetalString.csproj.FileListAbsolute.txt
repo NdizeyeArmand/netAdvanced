@@ -1,0 +1,14 @@
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\GetalString\bin\Debug\net7.0\GetalString.exe
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\GetalString\bin\Debug\net7.0\GetalString.deps.json
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\GetalString\bin\Debug\net7.0\GetalString.runtimeconfig.json
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\GetalString\bin\Debug\net7.0\GetalString.dll
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\GetalString\bin\Debug\net7.0\GetalString.pdb
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\GetalString\obj\Debug\net7.0\GetalString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\GetalString\obj\Debug\net7.0\GetalString.AssemblyInfoInputs.cache
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\GetalString\obj\Debug\net7.0\GetalString.AssemblyInfo.cs
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\GetalString\obj\Debug\net7.0\GetalString.csproj.CoreCompileInputs.cache
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\GetalString\obj\Debug\net7.0\GetalString.dll
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\GetalString\obj\Debug\net7.0\refint\GetalString.dll
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\GetalString\obj\Debug\net7.0\GetalString.pdb
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\GetalString\obj\Debug\net7.0\GetalString.genruntimeconfig.cache
+C:\Users\ruben\source\repos\NdizeyeArmand\netAdvanced2023\GetalString\obj\Debug\net7.0\ref\GetalString.dll
