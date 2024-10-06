@@ -117,7 +117,11 @@ class Tijdschrift : Boek
 class Bestelling<T>
 {
     private static int volgnummer = 1;
-    public int Id { get; }
+    private int _id;
+    public int Id { 
+        get { return _id; }
+        private set { _id = value; } 
+    }
     public T Item { get; }
     public DateTime Datum { get; }
     public int Aantal { get; }
@@ -166,6 +170,7 @@ class Program
 
     static void Main(string[] args)
     {
+
         Boek b1 = new Boek("9789000381609", "Elon Musk", "Standaard Uitgeverij", 40.0);
         Boek b2 = new Boek("9789000348640", "Steve Jobs", "Standaard Uitgeverij", 20.0);
 
