@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruben\\source\\repos\\NdizeyeArmand\\netAdvanced2023\\Async\\Async\\Async.csproj",
+      "projectUniqueName": "C:\\Users\\ruben\\source\\repos\\NdizeyeArmand\\netFramework2024\\Async\\Async\\Async.csproj",
       "projectName": "Async",
-      "projectPath": "C:\\Users\\ruben\\source\\repos\\NdizeyeArmand\\netAdvanced2023\\Async\\Async\\Async.csproj",
+      "projectPath": "C:\\Users\\ruben\\source\\repos\\NdizeyeArmand\\netFramework2024\\Async\\Async\\Async.csproj",
       "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruben\\source\\repos\\NdizeyeArmand\\netAdvanced2023\\Async\\Async\\obj\\",
+      "outputPath": "C:\\Users\\ruben\\source\\repos\\NdizeyeArmand\\netFramework2024\\Async\\Async\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",

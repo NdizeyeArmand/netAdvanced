@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Omkeren")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab6839644591ba732f359c3e623052bcf4bf2aae")]
 [assembly: System.Reflection.AssemblyProductAttribute("Omkeren")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Omkeren")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
